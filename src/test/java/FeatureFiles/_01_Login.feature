@@ -9,7 +9,7 @@ Feature: Login Functionality
     Then User should login successfuly
 
 
-  Scenario: Login to ParaBank with invalid username and password
+  Scenario: Login to with invalid username and password
 
     Given Navigate to basqar
     When Input login username and password
